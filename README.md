@@ -1,1 +1,3 @@
-# Lab2
+# Tymofii Barzashvili
+## s28260
+## 13
