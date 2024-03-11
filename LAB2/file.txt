@@ -1,0 +1,23 @@
+Student Number: 28260
+Original List: [1, 2, 20, 3]
+Original Tuple: (1, 2, 3)
+Original Set: {1, 2, 3}
+Original Dictionary: {2: 4, 3: 9, 15: 225}
+Manipulated List: [1, 2, 20, 3]
+Manipulated Tuple: (1, 2, 3)
+Union of Set: {0, 1, 2, 3, 4, 7}
+Intersection of Set: set()
+Difference of Set: {1, 2, 3}
+Updated Dictionary: {2: 4, 3: 9, 15: 225}
+List to Tuple: (1, 2, 20, 3)
+List to Set: {1, 2, 3, 20}
+List to Dictionary: {1: 1, 2: 4, 20: 400, 3: 9}
+Tuple to List: [1, 2, 3]
+Tuple to Set: {1, 2, 3}
+Tuple to Dictionary: {1: 1, 2: 4, 3: 9}
+Set to List: [1, 2, 3]
+Set to Tuple: (1, 2, 3)
+Set to Dictionary: {1: 1, 2: 4, 3: 9}
+Dictionary to List: [2, 3, 15]
+Dictionary to Tuple: (2, 3, 15)
+Dictionary to Set: {2, 3, 15}
